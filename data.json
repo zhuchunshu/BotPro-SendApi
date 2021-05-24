@@ -1,0 +1,10 @@
+{
+    "name" : "接口",
+    "description" : "BotPro:接口插件",
+    "class" : [
+        "boot"
+    ],
+    "dirname":"SendApi",
+    "author" : "Inkedus",
+    "url" : "http://node.tax"
+}
